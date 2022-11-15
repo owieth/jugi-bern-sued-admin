@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_ssss_sections",
+  "info": {
+    "displayName": "Content",
+    "icon": "book-open",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text"
+    }
+  }
+}
