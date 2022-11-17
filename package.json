@@ -1,5 +1,5 @@
 {
-  "name": "jugi-bern-sued-admin",
+  "name": "strapi-ts",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -11,16 +11,16 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.5.0",
-    "@strapi/plugin-users-permissions": "4.5.0",
-    "@strapi/plugin-i18n": "4.5.0",
+    "@strapi/strapi": "4.5.1",
+    "@strapi/plugin-users-permissions": "4.5.1",
+    "@strapi/plugin-i18n": "4.5.1",
     "better-sqlite3": "7.4.6"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "d491ae08-b2ab-4695-9d5b-939f3937476e"
+    "uuid": "aaa127ae-43db-4ecc-8704-fe62921dd9eb"
   },
   "engines": {
     "node": ">=14.19.1 <=18.x.x",
